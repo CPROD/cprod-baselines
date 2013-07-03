@@ -1,0 +1,15 @@
+{
+"train":true,
+"test":true,
+"useDictionary":true,
+"evaluate":true,
+"home_path":"resources/data",
+"training_text_file":"training-annotated-text.json",
+"training_annotations_file":"training-disambiguated-product-mentions.120725.csv",
+"dictionary_file":"dictionary.dat",
+"test_text_file":"leaderboard-text.json",
+"annotation_result_file":"baseline1result-leaderboard.csv",
+"ground_truth_annotations_file":"leaderboard-disambiguated-product-mentions.120725.csv",
+"model":"BASELINE1",
+"model_name":"baseline1"
+}

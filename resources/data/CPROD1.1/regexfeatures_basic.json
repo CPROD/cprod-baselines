@@ -1,0 +1,11 @@
+[{"name"="FC-UC", "evaluationType"="BOOL", "regex"="^[A-Z]"},
+{"name"="FC-LC", "evaluationType"="BOOL", "regex"="^[a-z]"},
+{"name"="FC-NUM", "evaluationType"="BOOL", "regex"="^[0-9]"},
+{"name"="CHARCNT", "evaluationType"="COUNT", "regex"="[.]", "cap"=13},
+{"name"="NUMCNT", "evaluationType"="COUNT", "regex"="[0-9]", "cap"=6},
+{"name"="UCCNT", "evaluationType"="COUNT", "regex"="[A-Z]", "cap"=5},
+{"name"="LCMCNT", "evaluationType"="COUNT", "regex"="[a-z]", "cap"=11},
+{"name"="DSHCNT", "evaluationType"="COUNT", "regex"="[\-]", "cap"=2},
+{"name"="SLSHCNT", "evaluationType"="COUNT", "regex"="[\/]", "cap"=2},
+{"name"="PERIODCNT", "evaluationType"="COUNT", "regex"="[\.]", "cap"=2}
+]

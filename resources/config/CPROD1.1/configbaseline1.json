@@ -1,0 +1,15 @@
+{
+"train":true,
+"test":true,
+"useDictionary":true,
+"evaluate":true,
+"home_path":"resources/data/CPROD1.1",
+"training_text_file":"training-annotated-text.json",
+"training_annotations_file":"training-annotations-1.1.csv",
+"dictionary_file":"dictionary.130701.dat",
+"test_text_file":"evaluation-text.json",
+"annotation_result_file":"baseline1result.csv",
+"ground_truth_annotations_file":"evaluation-annotations-1.1.csv",
+"model":"BASELINE1",
+"model_name":"baseline1"
+}

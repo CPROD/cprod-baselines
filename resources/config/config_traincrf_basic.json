@@ -1,0 +1,14 @@
+{
+"train":true,
+"test":false,
+"useDictionary":true,
+"evaluate":false,
+"tokenWindow":1,
+"home_path":"resources/data",
+"training_text_file":"training-annotated-text.json",
+"training_annotations_file":"training-disambiguated-product-mentions.120725.csv",
+"regex_feature_file":"regexfeatures_basic.json",
+"dictionary_file":"dictionary.dat",
+"model":"BASELINE2",
+"model_name":"baseline2_basic"
+}

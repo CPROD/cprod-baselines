@@ -1,0 +1,10 @@
+{
+"train":false,
+"test":false,
+"link":false,
+"evaluate":true,
+"home_path":"resources/data",
+"annotation_result_file":"baseline1result-evaluation-cleaned.csv",
+"ground_truth_annotations_file":"evaluation_cleaned_annotations.csv",
+"model_name":"baseline1"
+}
