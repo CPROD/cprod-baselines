@@ -26,7 +26,7 @@ public class BrandnameFilter extends MentionFilter{
         // If 1-token long then it must not be a brand
         if(startIndex==endIndex && noBrands==1)
             return false;
-        return false;
+        return true;
     }
 
 }
